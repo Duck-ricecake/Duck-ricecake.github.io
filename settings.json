@@ -4,20 +4,20 @@
     "subtitle": "얼굴로 보는 인공지능 돈상 테스트",
     "footerText": "&copy; 오리 2024. All Rights Reserved.",
     
-    "modelUrl": "https://teachablemachine.withgoogle.com/models/FgauoPNN7/",
+    "modelUrl": "https://teachablemachine.withgoogle.com/models/Q0QmZefPM/",
     "classDetails": [
         {
             "name": "부자",
             "title": "부자상",
             "explain": "축하드립니다. 당신은 좀 돈을 만질 것 입니다.",
-            "celeb": ,
+            "celeb": "",
             "color": "rgba(27, 175, 234, 1)"
         },
         {
             "name": "거지",
             "title": "거지상",
             "explain": "이것은 그냥 한 것 뿐이니 마음에 담아주지는 말아주세요^^",
-            "celeb": ,
+            "celeb": "",
             "color": "rgba(251, 176, 59, 1)"
         },
     
